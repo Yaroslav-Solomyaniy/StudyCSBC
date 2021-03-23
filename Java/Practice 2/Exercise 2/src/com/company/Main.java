@@ -41,8 +41,8 @@ class Author{
 public class Main {
 
     public static void main(String[] args) {
-        Author Serhey = new Author("Serhey","Serhey06@gmail.com","Mail");
-        Author Yaroslav = new Author("Yaroslav", "Soman74geeev@gmail.com", "Mail");
+        Author Serhey = new Author("Serhey","Serhey06@gmail.com","Male");
+        Author Yaroslav = new Author("Yaroslav", "Soman74geeev@gmail.com", "Male");
         System.out.println(Serhey);
         System.out.println(Yaroslav);
         printTimeStamp();
