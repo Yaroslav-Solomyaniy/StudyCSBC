@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Facke\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Facke\\.nuget\\packages",
+      "D:\\Программы\\Visual Studio\\Общие компоненты, инструменты и пакеты SDK\\NuGetPackages"
+    ]
+  }
+}
