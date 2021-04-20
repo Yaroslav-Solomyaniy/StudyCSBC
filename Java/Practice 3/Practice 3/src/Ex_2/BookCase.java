@@ -1,6 +1,6 @@
 package Ex_2;
 
-public class BookCase extends WardRobe implements Furniture {
+public class BookCase extends WardRobe{
     private String name;
     private int type;
     private int numberOfShelves;
@@ -49,12 +49,12 @@ public class BookCase extends WardRobe implements Furniture {
     {
         if(type == 1){
             double cash = ((length*width*height*numberOfShelves)*100)+150;
-            System.out.println("Шкафа за заданими параметрами коштує:"+cash);
+            System.out.println("Шкафа за заданими параметрами коштує:"+cash+" Грн.");
         }
         else
             {
                 double cash = ((length*width*height*numberOfShelves)*100)+400;
-                System.out.println("Шкафа за заданими параметрами коштує:"+cash);
+                System.out.println("Шкафа за заданими параметрами коштує:"+cash+" Грн.");
             }
 
     }
