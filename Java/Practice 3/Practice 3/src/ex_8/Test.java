@@ -2,9 +2,9 @@ package ex_8;
 import java.util.function.Predicate;
 public class Test
 {
-   static Employee[] employers = new Employee[10];
-    public static void main(String[] args)
-    {
+    static Employee[] employers = new Employee[10];
+
+    public static void main(String[] args){
         employers[0] = new Employee(55,20,21400,"male","Сергій Миколайович Олексенко");
         employers[1] = new Employee(25,4, 12100,"male", "Ярослав Сергійович Кузьменко");
         employers[2] = new Employee(22,2,10122,"female","Катерина Степанівна Ганчук");
@@ -15,11 +15,15 @@ public class Test
         employers[7] = new Employee(55,27, 28750,"male", "Микола Васильович Босовський");
         employers[8] = new Employee(63,37,34500,"male","Олег Володимирович Куклін");
         employers[9] = new Employee(69,50, 45000,"male", "Любов Віталіївна Тетеря");
-        Predicate<Employee> testRetire = Employee::Test.;
-        Predicate<Employee> testSalary = Employee::
+        
+	System.out.println("Employees who can retire");
+	printEmployeesComplyingToPredicate(employers, Test::testIfCanRetire);
+
+	System.out.println("Employees who shall be payed extra");
+        printEmployeesComplyingToPredicate(employers, Test::testIfExtraPay);
     }
-    public static boolean testIfCanRetire(Employee employee)
-    {
+
+    public static boolean testIfCanRetire(Employee employee) {
         if(employee.getSex() == "male" & employee.getAge()>65 & employee.getWorkExperience()>35)
         {
             return true;
@@ -30,9 +34,8 @@ public class Test
         }
         else { return false; }
     }
-    public static boolean testIfExtraPay(Employee employee)
-    {
 
+    public static boolean testIfExtraPay(Employee employee){
         if (employee.getWorkExperience() > 15)
         {
             return true;
@@ -41,5 +44,13 @@ public class Test
         {
             return false;
         }
+    }
+    
+    public static void printEmployeesComplyingToPredicate(Employee[] employees, Predicate<Employee> predicate) {
+	for (Employee employee: employees) {
+	    if (predicate.test(employee)) {
+		System.out.println(employee);
+	    }
+	}
     }
 }
