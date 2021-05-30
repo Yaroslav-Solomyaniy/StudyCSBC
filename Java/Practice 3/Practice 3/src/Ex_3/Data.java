@@ -7,7 +7,7 @@ public class Data {
                         new Employee("Stanislav",5000)
                 };
         double temp = average(SuperEmployee);
-        System.out.println(largest(SuperEmployee.);
+        System.out.println(temp);
     }
     public static double average(Measurable[] objects)
     {
@@ -25,21 +25,16 @@ public class Data {
             return 0;
         }
     }
-    public static Measurable largest(Measurable[] objects)
+    public static String largest(Measurable[] objects)
     {
         if (objects.length == 0)
         {
             return null;
         }
-        Measurable largestSoFar = objects[0];
-        for (int i = 1; i < objects.length; i++)
+        String name = "";
+        for(Measurable obj : objects)
         {
-            Measurable current = objects[i];
-            if (current.getMeasure() > largestSoFar.getMeasure())
-            {
-                largestSoFar = current;
-            }
+            
         }
-        return largestSoFar;
     }
 }

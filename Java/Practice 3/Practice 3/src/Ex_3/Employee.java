@@ -23,7 +23,7 @@ public class Employee implements Measurable{
     }
 
     @Override
-    public String largest(Measurable[] objects) {
+    public String largest() {
         return name;
     }
 }
