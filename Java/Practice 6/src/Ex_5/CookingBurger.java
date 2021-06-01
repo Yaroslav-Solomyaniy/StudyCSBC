@@ -19,14 +19,16 @@ public class CookingBurger implements Runnable {
         long start = System.currentTimeMillis();
         System.out.println(this.message);
         try {
-            Thread.sleep(6000);
+            Thread.sleep(8000);
             System.out.println("Приготування бургеру завершено.");
-            long stop = System.currentTimeMillis();
-            timeBurger = ((stop - start) / 1000f);
             this.cb.await();
         } catch (BrokenBarrierException | InterruptedException ex) {
             System.out.println(ex);
         }
+        long stop = System.currentTimeMillis();
+        timeBurger = ((stop - start) / 1000f);
+        System.out.println("Час приготування бургера: " + timeBurger + " секунд.");
+
         setEnd(true);
     }
 

@@ -1,4 +1,6 @@
 package ex_8;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.function.Predicate;
 public class Test
 {
@@ -20,8 +22,15 @@ public class Test
 
         System.out.println("Employees who shall be payed extra");
         printEmployeesComplyingToPredicate(employers, Test::testIfExtraPay);
+        printTimeStamp();
     }
-
+    public static void printTimeStamp() {
+        final String sname = "Yaroslav Solomianyi";
+        Date currentDate = new Date();
+        SimpleDateFormat dateFormat = null;
+        dateFormat = new SimpleDateFormat();
+        System.out.println("\nMade by: " + sname + " on " + dateFormat.format(currentDate));
+    }
     public static boolean testIfCanRetire(Employee employee) {
         if(employee.getSex() == "male" & employee.getAge()>65 & employee.getWorkExperience()>35)
         {

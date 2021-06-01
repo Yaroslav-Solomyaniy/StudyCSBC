@@ -6,4 +6,3 @@ public class Order implements Runnable {
         System.out.println("Ваш заказ успішно виконано.");
     }
 }
-

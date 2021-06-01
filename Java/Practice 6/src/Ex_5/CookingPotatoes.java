@@ -20,14 +20,16 @@ public class CookingPotatoes implements Runnable {
         long start = System.currentTimeMillis();
         System.out.println(this.message);
         try {
-            Thread.sleep(12000);
+            Thread.sleep(5400);
             System.out.println("Приготування картошки фрі завершено.");
-            long stop = System.currentTimeMillis();
-            timeFree = ((stop - start) / 1000f);
             this.cb.await();
         } catch (BrokenBarrierException | InterruptedException ex) {
             System.out.println(ex);
         }
+        long stop = System.currentTimeMillis();
+        timeFree = ((stop - start) / 1000f);
+        System.out.println("Час приготування картошки фрі: " + timeFree + " секунд.");
+
         setEnd(true);
     }
 

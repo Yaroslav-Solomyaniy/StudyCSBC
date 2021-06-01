@@ -1,16 +1,20 @@
 package Ex_7;
 
 public class Car {
-    protected int arrivalTime;
+    private int arrivalTime;
 
-    public Car() {
+    public Car() { }
+
+    public Car(int a){
+        arrivalTime = a;
     }
 
-    public int getArrivalTime(int at) {
+    public void setArrivalTime(int a) {
+        arrivalTime = a;
+    }
+
+    public int getArrivalTime(){
         return arrivalTime;
     }
 
-    public Car(int arrivalTime) {
-        this.arrivalTime = arrivalTime;
-    }
 }

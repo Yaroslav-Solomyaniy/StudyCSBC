@@ -19,14 +19,16 @@ public class CookingCola implements Runnable {
         long start = System.currentTimeMillis();
         System.out.println(this.message);
         try {
-            Thread.sleep(5000);
+            Thread.sleep(2459);
             System.out.println("Приготування коли завершено.");
-            long stop = System.currentTimeMillis();
-            timeCola = ((stop - start) / 1000f);
             this.cb.await();
         } catch (BrokenBarrierException | InterruptedException ex) {
             System.out.println(ex);
         }
+        long stop = System.currentTimeMillis();
+        timeCola = ((stop - start) / 1000f);
+        System.out.println("Час приготування коли: " + timeCola + " секунд.");
+
         setEnd(true);
     }
 
