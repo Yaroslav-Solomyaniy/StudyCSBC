@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Ex_3_Practice_13</AssemblyName>
+    <RootNamespace>Ex_3_Practice_13</RootNamespace>
+    <StartupObject>WinFormsApp1.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

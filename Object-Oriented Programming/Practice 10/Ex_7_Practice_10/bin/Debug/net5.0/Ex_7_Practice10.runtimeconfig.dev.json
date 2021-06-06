@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Anzhelika\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Anzhelika\\.nuget\\packages"
+    ]
+  }
+}

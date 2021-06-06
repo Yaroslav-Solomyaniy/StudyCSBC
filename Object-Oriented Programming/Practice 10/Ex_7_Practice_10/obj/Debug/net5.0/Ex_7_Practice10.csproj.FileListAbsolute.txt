@@ -1,0 +1,15 @@
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\bin\Debug\net5.0\Ex_7_Practice10.exe
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\bin\Debug\net5.0\Ex_7_Practice10.deps.json
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\bin\Debug\net5.0\Ex_7_Practice10.runtimeconfig.json
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\bin\Debug\net5.0\Ex_7_Practice10.runtimeconfig.dev.json
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\bin\Debug\net5.0\Ex_7_Practice10.dll
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\bin\Debug\net5.0\ref\Ex_7_Practice10.dll
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\bin\Debug\net5.0\Ex_7_Practice10.pdb
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\obj\Debug\net5.0\Ex_7_Practice10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\obj\Debug\net5.0\Ex_7_Practice10.AssemblyInfoInputs.cache
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\obj\Debug\net5.0\Ex_7_Practice10.AssemblyInfo.cs
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\obj\Debug\net5.0\Ex_7_Practice10.csproj.CoreCompileInputs.cache
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\obj\Debug\net5.0\Ex_7_Practice10.dll
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\obj\Debug\net5.0\ref\Ex_7_Practice10.dll
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\obj\Debug\net5.0\Ex_7_Practice10.pdb
+C:\Users\Anzhelika\source\repos\Ex_7_Practice10\obj\Debug\net5.0\Ex_7_Practice10.genruntimeconfig.cache

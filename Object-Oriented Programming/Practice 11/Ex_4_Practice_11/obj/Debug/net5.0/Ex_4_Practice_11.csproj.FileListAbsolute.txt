@@ -1,0 +1,16 @@
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\bin\Debug\net5.0\Ex_4_Practice_11.exe
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\bin\Debug\net5.0\Ex_4_Practice_11.deps.json
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\bin\Debug\net5.0\Ex_4_Practice_11.runtimeconfig.json
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\bin\Debug\net5.0\Ex_4_Practice_11.runtimeconfig.dev.json
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\bin\Debug\net5.0\Ex_4_Practice_11.dll
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\bin\Debug\net5.0\ref\Ex_4_Practice_11.dll
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\bin\Debug\net5.0\Ex_4_Practice_11.pdb
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\obj\Debug\net5.0\Ex_4_Practice_11.csproj.AssemblyReference.cache
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\obj\Debug\net5.0\Ex_4_Practice_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\obj\Debug\net5.0\Ex_4_Practice_11.AssemblyInfoInputs.cache
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\obj\Debug\net5.0\Ex_4_Practice_11.AssemblyInfo.cs
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\obj\Debug\net5.0\Ex_4_Practice_11.csproj.CoreCompileInputs.cache
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\obj\Debug\net5.0\Ex_4_Practice_11.dll
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\obj\Debug\net5.0\ref\Ex_4_Practice_11.dll
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\obj\Debug\net5.0\Ex_4_Practice_11.pdb
+C:\Users\Anzhelika\Desktop\Ex_4_Practice_11\obj\Debug\net5.0\Ex_4_Practice_11.genruntimeconfig.cache

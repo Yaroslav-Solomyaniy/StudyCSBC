@@ -1,0 +1,16 @@
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\bin\Debug\net5.0\Practice_10(ex_1)McDonalds.exe
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\bin\Debug\net5.0\Practice_10(ex_1)McDonalds.deps.json
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\bin\Debug\net5.0\Practice_10(ex_1)McDonalds.runtimeconfig.json
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\bin\Debug\net5.0\Practice_10(ex_1)McDonalds.runtimeconfig.dev.json
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\bin\Debug\net5.0\Practice_10(ex_1)McDonalds.dll
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\bin\Debug\net5.0\ref\Practice_10(ex_1)McDonalds.dll
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\bin\Debug\net5.0\Practice_10(ex_1)McDonalds.pdb
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\obj\Debug\net5.0\Practice_10(ex_1)McDonalds.csproj.AssemblyReference.cache
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\obj\Debug\net5.0\Practice_10(ex_1)McDonalds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\obj\Debug\net5.0\Practice_10(ex_1)McDonalds.AssemblyInfoInputs.cache
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\obj\Debug\net5.0\Practice_10(ex_1)McDonalds.AssemblyInfo.cs
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\obj\Debug\net5.0\Practice_10(ex_1)McDonalds.csproj.CoreCompileInputs.cache
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\obj\Debug\net5.0\Practice_10(ex_1)McDonalds.dll
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\obj\Debug\net5.0\ref\Practice_10(ex_1)McDonalds.dll
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\obj\Debug\net5.0\Practice_10(ex_1)McDonalds.pdb
+C:\Users\Anzhelika\source\repos\Practice_10(ex_1)McDonalds\obj\Debug\net5.0\Practice_10(ex_1)McDonalds.genruntimeconfig.cache

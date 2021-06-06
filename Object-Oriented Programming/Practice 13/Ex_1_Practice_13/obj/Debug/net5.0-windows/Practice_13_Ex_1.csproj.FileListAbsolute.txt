@@ -1,0 +1,36 @@
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.exe
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.deps.json
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.runtimeconfig.json
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.runtimeconfig.dev.json
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.dll
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\bin\Debug\net5.0-windows\ref\Practice_13_Ex_1.dll
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.pdb
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.csproj.AssemblyReference.cache
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.Form1.resources
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.csproj.GenerateResource.cache
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.AssemblyInfoInputs.cache
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.AssemblyInfo.cs
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.dll
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\ref\Practice_13_Ex_1.dll
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.pdb
+C:\Users\Anzhelika\Desktop\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.genruntimeconfig.cache
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.exe
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.deps.json
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.runtimeconfig.json
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.runtimeconfig.dev.json
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.dll
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\bin\Debug\net5.0-windows\ref\Practice_13_Ex_1.dll
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\bin\Debug\net5.0-windows\Practice_13_Ex_1.pdb
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.csproj.AssemblyReference.cache
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.Form1.resources
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.csproj.GenerateResource.cache
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.AssemblyInfoInputs.cache
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.AssemblyInfo.cs
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.dll
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\ref\Practice_13_Ex_1.dll
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.pdb
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 13\Practice_13_Ex_1\obj\Debug\net5.0-windows\Practice_13_Ex_1.genruntimeconfig.cache
