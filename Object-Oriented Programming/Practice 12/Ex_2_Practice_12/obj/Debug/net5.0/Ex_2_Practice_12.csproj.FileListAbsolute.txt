@@ -1,0 +1,16 @@
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\bin\Debug\net5.0\Ex_2_Practice_12.exe
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\bin\Debug\net5.0\Ex_2_Practice_12.deps.json
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\bin\Debug\net5.0\Ex_2_Practice_12.runtimeconfig.json
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\bin\Debug\net5.0\Ex_2_Practice_12.runtimeconfig.dev.json
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\bin\Debug\net5.0\Ex_2_Practice_12.dll
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\bin\Debug\net5.0\ref\Ex_2_Practice_12.dll
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\bin\Debug\net5.0\Ex_2_Practice_12.pdb
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\obj\Debug\net5.0\Ex_2_Practice_12.csproj.AssemblyReference.cache
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\obj\Debug\net5.0\Ex_2_Practice_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\obj\Debug\net5.0\Ex_2_Practice_12.AssemblyInfoInputs.cache
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\obj\Debug\net5.0\Ex_2_Practice_12.AssemblyInfo.cs
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\obj\Debug\net5.0\Ex_2_Practice_12.csproj.CoreCompileInputs.cache
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\obj\Debug\net5.0\Ex_2_Practice_12.dll
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\obj\Debug\net5.0\ref\Ex_2_Practice_12.dll
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\obj\Debug\net5.0\Ex_2_Practice_12.pdb
+C:\Users\Anzhelika\Desktop\StudyCSBC\Object-Oriented Programming\Practice 12\Ex_2_Practice_12\obj\Debug\net5.0\Ex_2_Practice_12.genruntimeconfig.cache
